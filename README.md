@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🔍 I love turning **data into decisions** using Machine Learning, Deep Learning & NLP  
-- 🛠️ Currently building: `AutoML`, `GANs`, and `Cricket Match Outcome Predictor`
+- 🛠️ Currently building: `AutoML`, `GANs`, and `Amravati's 1st Dine out app`
 - 🎯 My goal? To combine AI with real-world impact — from sports to smart apps  
 - 💬 Always open for collabs, internships, or just a techy chat!
 
