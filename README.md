@@ -48,8 +48,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/riddhvesh-dixit-1aa3b6262/))  
-- 🧠 [Codolio]([https://codolio.ai/your-profile](https://codolio.com/profile/RIddhvesh))  
+- 💼 [LinkedIn]:https://linkedin.com/in/your-link](https://www.linkedin.com/in/riddhvesh-dixit-1aa3b6262/  
+- 🧠 [Codolio]:https://codolio.ai/your-profile](https://codolio.com/profile/RIddhvesh 
 - 📬 Email: riddhveshddixit@gmail.com
 
 ---
